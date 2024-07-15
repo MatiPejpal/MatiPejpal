@@ -4,4 +4,3 @@ Hi, I’m @MatiPejpal.
 - I've been interested in programming since I was 13 years old. (then I was playing with html and css)
 - My native language is Polish, but I can speak some English.
 - I am little busy right now as my matriculation exams are in may, but in my spare time i am keen to contribute to github community.
-- Here is my contact mail: matipejpal.contact@gmail.com
